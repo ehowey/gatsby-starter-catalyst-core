@@ -7,6 +7,7 @@
     "gatsby": "^2.13.2",
     "gatsby-plugin-manifest": "^2.2.0",
     "gatsby-theme-catalyst-core": "^0.0.10",
+    "lodash.merge": "^4.6.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
