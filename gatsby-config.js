@@ -19,7 +19,7 @@ module.exports = {
             ]
   },
     plugins: [
-      'gatsby-theme-catalyst-core', 
+      'gatsby-theme-catalyst-core',
       {
       resolve: `gatsby-plugin-manifest`,
       options: {
