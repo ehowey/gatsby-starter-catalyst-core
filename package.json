@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-catalyst-basic",
+  "name": "gatsby-starter-catalyst-core",
   "description": "A basic site starter based on the Gatsby-Theme-Catalyst-Core",
   "version": "0.0.1",
   "author": "Eric Howey <eric@erichowey.dev>",
@@ -30,9 +30,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ehowey/gatsby-starter-catalyst-basic"
+    "url": "https://github.com/ehowey/gatsby-starter-catalyst-core"
   },
   "bugs": {
-    "url": "https://github.com/ehowey/gatsby-starter-catalyst-basic/issues"
+    "url": "https://github.com/ehowey/gatsby-starter-catalyst-core/issues"
   }
 }
