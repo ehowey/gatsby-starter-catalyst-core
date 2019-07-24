@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Catalyst Starter`,
+    title: `Catalyst Basic`,
     description: `Speed up your Gatsby development workflow. Designed as an opinionated and high speed starter.`,
     author: `Eric Howey`,
     menuLinks:[
@@ -16,7 +16,17 @@ module.exports = {
             name:'Page 3',
             link:'/page-3'
           }
-            ]
+            ],
+    socialLinks:[
+      {
+        name:'Github',
+        url:'https://www.github.com/ehowey'
+      },
+      {
+        name:'Twitter',
+        url:'https://www.twitter.com/erchwy'
+      }
+    ]
   },
     plugins: [
       'gatsby-theme-catalyst-core', 
