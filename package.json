@@ -5,7 +5,6 @@
   "author": "Eric Howey <eric@erichowey.dev>",
   "dependencies": {
     "gatsby": "^2.13.41",
-    "gatsby-plugin-manifest": "^2.2.4",
     "gatsby-theme-catalyst-core": "^0.1.8",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
