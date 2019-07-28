@@ -20,15 +20,18 @@ module.exports = {
     socialLinks: [
       {
         name: `Email`,
-        url: `eric@erichowey.dev`
+        url: `eric@erichowey.dev`,
+        location: `footer` //Options are "all", "header", "footer"
       },
       {
         name: `Github`,
-        url: `https://www.github.com/ehowey`
+        url: `https://www.github.com/ehowey`,
+        location: `all`
       },
       {
         name: `Twitter`,
-        url: `https://www.twitter.com/erchwy`
+        url: `https://www.twitter.com/erchwy`,
+        location: `header`
       }
     ]
   },
