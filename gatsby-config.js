@@ -26,12 +26,12 @@ module.exports = {
       {
         name: `Github`,
         url: `https://www.github.com/ehowey`,
-        location: `all`
+        location: `all` //Options are "all", "header", "footer"
       },
       {
         name: `Twitter`,
         url: `https://www.twitter.com/erchwy`,
-        location: `header`
+        location: `header` //Options are "all", "header", "footer"
       }
     ]
   },
