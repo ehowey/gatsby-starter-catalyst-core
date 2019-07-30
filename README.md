@@ -7,7 +7,7 @@ gatsby new my-catalyst-starter-core https://github.com/ehowey/gatsby-starter-cat
 ```
 [Read the Gatsby Quick Start Guide](https://www.gatsbyjs.org/docs/quick-start)
 
-**Overview**
+## Overview
 
 This is a starter site implementing `gatsby-theme-catalyst-core`. Please see [Gatsby-Theme-Catalyst-Core](https://github.com/ehowey/gatsby-theme-catalyst-core) for all relevant documentation. Please submit and track all issues in the main theme repo as this is where most code changes would be located.
 
