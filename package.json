@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-catalyst-core",
-  "description": "A basic site starter based on the Gatsby-Theme-Catalyst-Core",
-  "version": "0.1.0",
+  "description": "Gatsby Starter: A basic implementation of Gatsby-Theme-Catalyst-Core",
+  "version": "0.2.0",
   "author": "Eric Howey <eric@erichowey.dev>",
   "dependencies": {
     "gatsby": "^2.13.45",
