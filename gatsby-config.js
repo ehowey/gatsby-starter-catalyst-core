@@ -4,18 +4,24 @@ module.exports = {
     description: `Speed up your Gatsby development workflow. Designed as an opinionated and high speed starter.`,
     author: `Eric Howey`,
     siteUrl: `https://gatsby-starter-catalyst-core.netlify.com`, //Change to you site address, required for sitemap.xml and robots.txt file
-    menuLinks: [
+    pageLinks: [
       {
         name: `Page 1`,
-        link: `/page-1`
+        link: `/page-3`
       },
       {
         name: `Page 2`,
         link: `/page-2`
+      }
+    ],
+    anchorLinks: [
+      {
+        name: `Anchor 1`,
+        link: `#anchor1`
       },
       {
-        name: `Page 3`,
-        link: `/page-3`
+        name: `Anchor 2`,
+        link: `#anchor2`
       }
     ],
     socialLinks: [
@@ -37,7 +43,14 @@ module.exports = {
     ]
   },
   plugins: [
-    `gatsby-theme-catalyst-core`,
+    {
+      resolve: `gatsby-theme-catalyst-core`,
+      options: {
+        displaySiteLogo: true,
+        displaySiteTitle: true,
+        headerType: "topnav"
+      }
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
