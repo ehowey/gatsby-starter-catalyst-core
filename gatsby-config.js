@@ -48,7 +48,8 @@ module.exports = {
       options: {
         displaySiteLogo: true,
         displaySiteTitle: true,
-        headerType: "topnav",
+        invertSiteLogo: true,
+        headerType: "anchornav",
       },
     },
     {
