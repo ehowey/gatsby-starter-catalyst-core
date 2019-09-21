@@ -17,11 +17,11 @@ module.exports = {
     anchorLinks: [
       {
         name: `Anchor 1`,
-        link: `#anchor1`,
+        link: `#anchor-1`,
       },
       {
         name: `Anchor 2`,
-        link: `#anchor2`,
+        link: `#anchor-2`,
       },
     ],
     socialLinks: [
@@ -49,7 +49,8 @@ module.exports = {
         displaySiteLogo: true,
         displaySiteTitle: true,
         invertSiteLogo: true,
-        headerType: "anchornav",
+        navType: "default", // "default", "anchor", "blended"
+        headerPosition: "static", // "static" or "sticky" work best, "fixed" is possible
       },
     },
     {
