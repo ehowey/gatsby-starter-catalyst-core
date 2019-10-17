@@ -50,8 +50,8 @@ module.exports = {
         displaySiteTitle: true,
         invertSiteLogo: true,
         mobileMenuBreakpoint: "768px",
-        navType: "default", // "default", "anchor", "blended"
-        headerPosition: "static", // "static" or "sticky" work best, "fixed" is possible
+        navType: "anchor", // "default", "anchor", "blended"
+        headerPosition: "sticky", // "static" or "sticky" work best, "fixed" is possible
       },
     },
     {
@@ -61,7 +61,7 @@ module.exports = {
         short_name: `catalyst`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#000000`,
+        theme_color: `#cccccc`,
         display: `minimal-ui`,
         icon: `src/images/logo-512.png`, // This path is relative to the root of the site.
       },
