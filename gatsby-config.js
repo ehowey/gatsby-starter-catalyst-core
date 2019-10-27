@@ -46,12 +46,12 @@ module.exports = {
     {
       resolve: `gatsby-theme-catalyst-core`,
       options: {
-        displaySiteLogo: false,
+        displaySiteLogo: true,
         displaySiteTitle: true,
         invertSiteLogo: false,
         mobileMenuBreakpoint: "768px",
-        navType: "blended", // "default", "anchor", "blended"
-        headerPosition: "sticky", // "static" or "sticky" work best, "fixed" is possible
+        navType: "default", // "default", "anchor", "blended"
+        headerPosition: "static", // "static" or "sticky" work best, "fixed" is possible
       },
     },
     {
