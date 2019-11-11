@@ -5951,9 +5951,9 @@ gatsby-telemetry@^1.1.36:
     uuid "3.3.3"
 
 gatsby-theme-catalyst-core@^0.13.1:
-  version "0.13.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.13.1.tgz#22a2973bb296f12b1abe175ae2d01f16972d7ff1"
-  integrity sha512-sT2jZvFzygKbCYKA8j/9QfLFbNw/tdAL5RY+EEsz6AbLoDfY+P+Yb6MG7NygKvA7rvoL/e2kAgYIMQWvXxp+vQ==
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.13.2.tgz#f9d72da3a33d651f910c6278b9e1ff7491cb5697"
+  integrity sha512-MsgYLcByh2c8jy6T41g0QjstnrGejmgYIKkETo2KMyEB0ZmgnYU55Rm4Ums0FHSQgaVTkvTxx7zqD02L7gTnTw==
   dependencies:
     "@emotion/core" "^10.0.22"
     "@mdx-js/mdx" "^1.5.1"
@@ -9239,9 +9239,9 @@ object-hash@^1.1.4:
   integrity sha512-OSuu/pU4ENM9kmREg0BdNrUDIl1heYa4mBZacJc+vVWz4GtAwu7jO8s4AIt2aGRUTqxykpWzI3Oqnsm13tTMDA==
 
 object-inspect@^1.6.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/object-inspect/-/object-inspect-1.6.0.tgz#c70b6cbf72f274aab4c34c0c82f5167bf82cf15b"
-  integrity sha512-GJzfBZ6DgDAmnuaM3104jR4s1Myxr3Y3zfIyN4z3UdqN69oSRacNK8UhnobDdC+7J2AHCjGwxQubNJfE70SXXQ==
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/object-inspect/-/object-inspect-1.7.0.tgz#f4f6bd181ad77f006b5ece60bd0b6f398ff74a67"
+  integrity sha512-a7pEHdh1xKIAgTySUGgLMx/xwDZskN1Ud6egYYN3EdRW4ZMPNEDUTF+hwy2LUC+Bl+SyLXANnwz/jyh/qutKUw==
 
 object-is@^1.0.1:
   version "1.0.1"
