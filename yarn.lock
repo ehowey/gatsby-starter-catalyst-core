@@ -5917,7 +5917,7 @@ gatsby-telemetry@^1.1.42:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-catalyst-core@^0.14.0:
+gatsby-theme-catalyst-core@^0.14.1:
   version "0.14.1"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.14.1.tgz#d903cd971b3f044b9fb8f0713844e4b61a9d2295"
   integrity sha512-NTCxCH6DghsRQj8MZL4C1BOq4ugVHWJ/esd5hDSxRaWu9XzPXf92uVl6dsyeExrekIqW3+uj+BTUhWcjRfqpyA==
