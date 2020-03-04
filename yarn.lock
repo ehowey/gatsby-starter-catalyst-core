@@ -1318,6 +1318,22 @@
     prop-types "^15.6.1"
     react-lifecycles-compat "^3.0.4"
 
+"@reach/skip-nav@^0.8.5":
+  version "0.8.5"
+  resolved "https://registry.yarnpkg.com/@reach/skip-nav/-/skip-nav-0.8.5.tgz#2f336098478ca69a5dae557b2ad08255babf3c43"
+  integrity sha512-aYvft4TroNQjgXyhzwXP7l3ejQ6/3ImCMntDMsme3+DFbwAY/azLZhUsZfGbIFzE+nzR8fnIY70aKyaVo0bHgQ==
+  dependencies:
+    "@reach/utils" "^0.8.5"
+    tslib "^1.10.0"
+
+"@reach/utils@^0.8.5":
+  version "0.8.5"
+  resolved "https://registry.yarnpkg.com/@reach/utils/-/utils-0.8.5.tgz#6675d6f81054c8dce1b9d535280b0e3c5174fe7d"
+  integrity sha512-nc84exIqBa+EohJPBFjePQP88dBAP4l+tChxwWszzZ+R6tTtSgOg40WyQ5EjPYJFbltnbZIbASHefcEBrFxqng==
+  dependencies:
+    tslib "^1.10.0"
+    warning "^4.0.3"
+
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
@@ -6010,14 +6026,15 @@ gatsby-telemetry@^1.1.49:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-catalyst-core@^0.23.0:
-  version "0.23.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.23.0.tgz#100250a6e3244274a4ce75e8d0aa8eee9747da75"
-  integrity sha512-AIBVtbl20ptFT9xxLCzlSETqhEO1BHBIsk98J82CeGZLNoCYj+DHjSYUb0HrmZBFimvwskSAL6Ikj/WLQyOcLw==
+gatsby-theme-catalyst-core@^0.24.0:
+  version "0.24.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.24.0.tgz#30b94771a2284306073ad4e62596dbe0f3df99c1"
+  integrity sha512-jzPp009k/Mi3RfyrbXVP2uM/NdKEDnkeC8pWtFn1J68R7ctiIk9lLfSyXbTO4HOgFrab6gOGE4b4Cc8As2HK8g==
   dependencies:
     "@mdx-js/mdx" "^1.5.5"
     "@mdx-js/react" "^1.5.5"
     "@pauliescanlon/gatsby-mdx-embed" "^0.0.17"
+    "@reach/skip-nav" "^0.8.5"
     "@theme-ui/preset-tailwind" "^0.3.0"
     "@theme-ui/prism" "^0.3.0"
     deepmerge "^4.2.2"
