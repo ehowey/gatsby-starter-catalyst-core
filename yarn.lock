@@ -6819,10 +6819,10 @@ gatsby-telemetry@^2.2.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-catalyst-core@^6.0.0-beta.2:
-  version "6.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-6.0.0-beta.2.tgz#0767d1d03dfb49731d325dfee386c007bc9994b1"
-  integrity sha512-8AUTskCpYH0a6LOoAsRT/KTUVjQIv+ZquxruT3Cxa53uaX1yn2+9Q0evYIP8tWR+HjwpDoHBGWjap5eJNntEIA==
+gatsby-theme-catalyst-core@^6.0.0-beta.3:
+  version "6.0.0-beta.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-6.0.0-beta.3.tgz#84b708d3cb8f3e263443c3c5f967ef412cd71ec1"
+  integrity sha512-eRaMfzbGVIq8XFgmh8CJVkP3ZaPq2ROgh5qiJosXrkt5dIooseQ+/Xo5bf2vvgbZBWplYBlRu7SLAe5D4Li3hQ==
   dependencies:
     "@mdx-js/mdx" "^1.6.22"
     "@mdx-js/react" "^1.6.22"
